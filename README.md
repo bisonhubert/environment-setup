@@ -1,12 +1,14 @@
 # Environment Setup
-A list of programs, package and task managers, language-specific syntax reference sheets to help get a new Mac environment setup for programming.
+A list of programs, package and task managers, language-specific syntax reference sheets, and other resources to help get a new Mac environment setup for programming.
 
 ## Table of Contents
 * [Shells](#shells)
 * [Text Editor](#text-editor)
 * [Package Managers](#package-managers)
 * [Python](#python)
+* [Django](#django)
 * [Docker](#docker)
+* [Gmail](#gmail)
 
 ## Shells
 1. [iterm](https://www.iterm2.com/downloads.html)
@@ -23,8 +25,16 @@ A list of programs, package and task managers, language-specific syntax referenc
 
 ## Python
 1. [Python, Virtualenv, and Virtualenvwrapper](https://github.com/registerguard/registerguard.github.io/wiki/Install-python,-virtualenv,-virtualenvwrapper-in-a-brew-environment)
+2. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+3. [How Should I Start Learning Python?](https://www.quora.com/How-should-I-start-learning-Python-1)
+
+## Django
+1. [Django Documentation](https://docs.djangoproject.com/en/1.11/)
 
 ## Docker
 1. [Install Docker](https://docs.docker.com/docker-for-mac/install/#download-docker-for-mac)
 2. [Docs](https://docs.docker.com/engine/docker-overview/#docker-registries)
 3. [Beginner's Guide](https://opensource.com/business/14/7/guide-docker)
+
+## Gmail
+1. [Set Gmail as default mail service]()
