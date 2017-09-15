@@ -7,8 +7,10 @@ A list of programs, package and task managers, language-specific syntax referenc
 * [Package Managers](#package-managers)
 * [Python](#python)
 * [Django](#django)
+* [JavaScript](#javascript)
 * [Docker](#docker)
 * [Gmail](#gmail)
+* [Etc](#etc)
 
 ## Shells
 1. [iterm](https://www.iterm2.com/downloads.html)
@@ -22,6 +24,7 @@ A list of programs, package and task managers, language-specific syntax referenc
 
 ## Package Managers
 1. [Homebrew](https://brew.sh/)
+2. [npm](https://www.npmjs.com/)
 
 ## Python
 1. [Python, Virtualenv, and Virtualenvwrapper](https://github.com/registerguard/registerguard.github.io/wiki/Install-python,-virtualenv,-virtualenvwrapper-in-a-brew-environment)
@@ -31,10 +34,32 @@ A list of programs, package and task managers, language-specific syntax referenc
 ## Django
 1. [Django Documentation](https://docs.djangoproject.com/en/1.11/)
 
+## JavaScript
+1. [Node](https://nodejs.org/en/)
+2. [Typescript](https://www.typescriptlang.org/)
+
+## Xcode
+1. [Xcode 9](https://developer.apple.com/xcode/)
+
 ## Docker
 1. [Install Docker](https://docs.docker.com/docker-for-mac/install/#download-docker-for-mac)
 2. [Docs](https://docs.docker.com/engine/docker-overview/#docker-registries)
 3. [Beginner's Guide](https://opensource.com/business/14/7/guide-docker)
 
 ## Gmail
-1. [Set Gmail as default mail service]()
+1. [Set Gmail as default mail client](https://www.process.st/how-to-make-gmail-your-default-mail-client/)
+
+## Widgets / Chrome Extensions
+1. [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US)
+2. [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
+3. [Terms of Service, Didn't Read](https://tosdr.org/)
+4. [Streak](https://www.streak.com/)
+5. [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj?hl=en-US)
+6. [Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg?hl=en)
+7. [Make Donald Drumpf Again](http://donaldjdrumpf.com/)
+
+## Etc
+1. [Pomodoro](https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12)
+2. [Flux](https://justgetflux.com/)
+3. [Spectacle](https://www.spectacleapp.com/)
+4. [Dropbox](https://www.dropbox.com/)
