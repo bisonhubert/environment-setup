@@ -67,3 +67,4 @@ A list of programs, package and task managers, language-specific syntax referenc
 2. [Flux](https://justgetflux.com/)
 3. [Spectacle](https://www.spectacleapp.com/)
 4. [Dropbox](https://www.dropbox.com/)
+5. [Slack](https://slack.com/)
