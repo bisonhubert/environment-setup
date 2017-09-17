@@ -5,6 +5,7 @@ A list of programs, package and task managers, language-specific syntax referenc
 * [Shells](#shells)
 * [Text Editor](#text-editor)
 * [Package Managers](#package-managers)
+* [Git](#git)
 * [Python](#python)
 * [Django](#django)
 * [JavaScript](#javascript)
@@ -25,6 +26,9 @@ A list of programs, package and task managers, language-specific syntax referenc
 ## Package Managers
 1. [Homebrew](https://brew.sh/)
 2. [npm](https://www.npmjs.com/)
+
+## Git
+1. [Git](https://git-scm.com/download)
 
 ## Python
 1. [Python, Virtualenv, and Virtualenvwrapper](https://github.com/registerguard/registerguard.github.io/wiki/Install-python,-virtualenv,-virtualenvwrapper-in-a-brew-environment)
